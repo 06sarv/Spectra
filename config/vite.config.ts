@@ -5,13 +5,14 @@ import { dirname, resolve } from 'path';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+const projectRoot = resolve(__dirname, '..');
 
 export default defineConfig({
   plugins: [react()],
-  root: resolve(__dirname, 'client'),
+  root: resolve(projectRoot, 'client'),
   resolve: {
     alias: {
-      '@': resolve(__dirname, 'client/src'),
+      '@': resolve(projectRoot, 'client/src'),
     },
   },
   server: {
@@ -19,7 +20,7 @@ export default defineConfig({
     open: true,
   },
   build: {
-    outDir: resolve(__dirname, 'dist'),
+    outDir: resolve(projectRoot, 'dist'),
     emptyOutDir: true,
   },
 });
