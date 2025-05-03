@@ -19,13 +19,13 @@ A modern, intuitive color palette generator built with React and TypeScript. Cre
   - Triadic: Three colors equally spaced around the color wheel
   - Split-complementary: A base color and two colors adjacent to its complement
 
--  **Customization**
+- **Customization**
   - Choose from 5, 7, or 9 colors in your palette
   - Interactive color picker for precise color selection
   - Copy color codes with a single click
   - Remove or add colors dynamically
 
--  **Modern UI/UX**
+- **Modern UI/UX**
   - Clean, responsive design
   - Smooth animations and transitions
   - Real-time color updates
