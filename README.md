@@ -52,7 +52,7 @@ A modern, intuitive color palette generator built with React and TypeScript. Cre
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/spectra.git
+git clone https://github.com/06sarv/spectra.git
 cd spectra
 ```
 
