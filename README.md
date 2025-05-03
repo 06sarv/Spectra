@@ -13,19 +13,19 @@ A modern, intuitive color palette generator built with React and TypeScript. Cre
 
 ## ✨ Features
 
-- 🎨 **Multiple Color Harmony Modes**
+- **Multiple Color Harmony Modes**
   - Analogous: Colors that are next to each other on the color wheel
   - Complementary: Colors that are opposite each other
   - Triadic: Three colors equally spaced around the color wheel
   - Split-complementary: A base color and two colors adjacent to its complement
 
-- 🔧 **Customization**
+-  **Customization**
   - Choose from 5, 7, or 9 colors in your palette
   - Interactive color picker for precise color selection
   - Copy color codes with a single click
   - Remove or add colors dynamically
 
-- 💅 **Modern UI/UX**
+-  **Modern UI/UX**
   - Clean, responsive design
   - Smooth animations and transitions
   - Real-time color updates
@@ -33,13 +33,13 @@ A modern, intuitive color palette generator built with React and TypeScript. Cre
 
 ## 🛠️ Tech Stack
 
-- ⚛️ **React 18** - UI Library
-- 📘 **TypeScript** - Type Safety
-- ⚡ **Vite** - Build Tool
-- 🎨 **Tailwind CSS** - Styling
-- 🎯 **Radix UI** - Accessible Components
-- 🌈 **Framer Motion** - Animations
-- 🔄 **React Query** - Data Fetching
+- **React 18** - UI Library
+- **TypeScript** - Type Safety
+- **Vite** - Build Tool
+- **Tailwind CSS** - Styling
+- **Radix UI** - Accessible Components
+- **Framer Motion** - Animations
+- **React Query** - Data Fetching
 
 ## 🚀 Getting Started
 
